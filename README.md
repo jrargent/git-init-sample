@@ -2,4 +2,4 @@
 
 ## Test of links
 
-This project is using the [MIT](#https://choosealicense.com/licenses/mit/) license.
+This project is using the [MIT](https://choosealicense.com/licenses/mit/) license.
